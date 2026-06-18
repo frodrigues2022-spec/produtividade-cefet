@@ -51,8 +51,7 @@ O template foi desenvolvido para auxiliar alunos do curso de Sistemas de Informa
 
 ## Imagem do Template
 
-<img width="949" height="659" alt="image" src="https://github.com/user-attachments/assets/de9f8cad-e7f7-4ca9-8047-11f47beed315" />
-
+<img width="1920" height="1080" alt="hotion" src="https://github.com/user-attachments/assets/a262bbb8-28f0-4fd6-b522-dd33d0b84e84" />
 
 > Substitua "painel-estudos.png" pelo nome real da imagem enviada para o repositório.
 
