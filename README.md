@@ -7,10 +7,7 @@ O Notion é uma ferramenta de produtividade que funciona como um espaço de trab
 
 ## Por que usar?
 
-* **Centralização:** organize todas as suas informações em um só lugar.
-* **Visualização:** escolha a forma de visualizar suas tarefas, seja em listas, quadros ou calendários.
-* **Simplicidade:** interface intuitiva e fácil de utilizar.
-* **Flexibilidade:** adapte a ferramenta às suas necessidades de estudo e organização.
+O Notion é uma ferramenta que permite centralizar informações, tarefas e compromissos em um único ambiente, facilitando a organização do dia a dia. Sua interface simples e intuitiva possibilita que qualquer pessoa comece a utilizá-lo rapidamente, mesmo sem experiência prévia. Além disso, a plataforma oferece diferentes formas de visualização, como listas, quadros e calendários, permitindo que cada usuário organize seus estudos e projetos da maneira que considerar mais eficiente. Para estudantes, o Notion pode ser um grande aliado no acompanhamento de disciplinas, trabalhos acadêmicos e metas de aprendizagem.
 
 ## Como começar (Passo a Passo)
 
@@ -53,8 +50,6 @@ O template foi desenvolvido para auxiliar alunos do curso de Sistemas de Informa
 
 <img width="1920" height="1080" alt="hotion" src="https://github.com/user-attachments/assets/a262bbb8-28f0-4fd6-b522-dd33d0b84e84" />
 
-> Substitua "painel-estudos.png" pelo nome real da imagem enviada para o repositório.
-
 ## Tutorial em Vídeo
 
 Assista ao nosso vídeo no YouTube para aprender a configurar e utilizar o template na prática:
@@ -66,5 +61,3 @@ Assista ao nosso vídeo no YouTube para aprender a configurar e utilizar o templ
 O Notion é uma ferramenta que ajuda estudantes e profissionais a organizar tarefas, projetos e compromissos de forma prática e eficiente. Seu uso contribui para uma rotina mais produtiva, facilitando o acompanhamento de atividades e o planejamento dos estudos.
 
 ---
-
-**Trabalho desenvolvido para a disciplina do CEFET-MG – Projeto Conecta BSI – Grupo 05.**
