@@ -7,7 +7,7 @@ O Notion é uma ferramenta de produtividade que funciona como um espaço de trab
 
 ## Por que usar?
 
-O Notion é uma ferramenta que permite centralizar informações, tarefas e compromissos em um único ambiente, facilitando a organização do dia a dia. Sua interface simples e intuitiva possibilita que qualquer pessoa comece a utilizá-lo rapidamente, mesmo sem experiência prévia. Além disso, a plataforma oferece diferentes formas de visualização, como listas, quadros e calendários, permitindo que cada usuário organize seus estudos e projetos da maneira que considerar mais eficiente. Para estudantes, o Notion pode ser um grande aliado no acompanhamento de disciplinas, trabalhos acadêmicos e metas de aprendizagem.
+Sua interface simples e intuitiva possibilita que qualquer pessoa comece a utilizá-lo rapidamente, mesmo sem experiência prévia. Além disso, a plataforma oferece diferentes formas de visualização, como listas e quadros, ele facilita o acompanhamento das atividades e torna a rotina mais organizada e produtiva.
 
 ## Como começar (Passo a Passo)
 
@@ -15,9 +15,9 @@ O Notion é uma ferramenta que permite centralizar informações, tarefas e comp
 2. **Use nosso template:** criamos um modelo de organização para ajudar estudantes a gerenciar suas atividades acadêmicas.
 3. **Personalize:** adicione suas próprias tarefas e mova-as entre as colunas conforme seu progresso.
 
-## Template de Organização para Estudantes de BSI
+## Template de Organização para Estudantes
 
-O template foi desenvolvido para auxiliar alunos do curso de Sistemas de Informação na organização de atividades acadêmicas, estudos e projetos.
+O template foi desenvolvido para auxiliar estudantes na organização de atividades acadêmicas, estudos e projetos, facilitando o acompanhamento das tarefas e o planejamento da rotina.
 
 ### Funcionalidades
 
@@ -29,22 +29,19 @@ O template foi desenvolvido para auxiliar alunos do curso de Sistemas de Informa
 ### Exemplo de Tarefas
 
 #### 🔴 Não iniciado
-
-* Estudar Algoritmos.
-* Fazer exercícios de Matemática.
-* Aprender comandos básicos do Git.
+- Estudar para a prova.
+- Fazer exercícios da disciplina.
+- Iniciar trabalho em grupo.
 
 #### 🟡 Em andamento
-
-* Trabalho Extensionista Conecta BSI.
-* Configuração do GitHub.
-* Exercícios de Lógica de Programação.
+- Pesquisa para apresentação.
+- Revisão de conteúdo.
+- Organização das anotações.
 
 #### 🟢 Concluído
-
-* Visita à escola.
-* Resumo crítico da atividade.
-* Criação do repositório GitHub.
+- Entrega de atividade.
+- Leitura do material da semana.
+- Participação em trabalho em grupo.
 
 ## Imagem do Template
 
