@@ -1,6 +1,5 @@
 # Guia de Produtividade: Organizando sua vida com o Notion
 
-Bem-vindos ao guia do Grupo 05 para o projeto Conecta BSI. Nosso objetivo é apresentar uma ferramenta simples e eficiente para auxiliar estudantes na organização de seus estudos, tarefas e projetos acadêmicos.
 
 ## O que é o Notion?
 
