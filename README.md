@@ -1,13 +1,12 @@
 # Guia de Produtividade: Organizando sua vida com o Notion
 
-
 ## O que é o Notion?
 
 O Notion é uma ferramenta de produtividade que funciona como um espaço de trabalho completo. Com ele, é possível criar listas de tarefas, quadros de organização, calendários, anotações e muito mais, tudo em um único lugar.
 
 ## Por que usar?
 
-Sua interface simples e intuitiva possibilita que qualquer pessoa comece a utilizá-lo rapidamente, mesmo sem experiência prévia. Além disso, a plataforma oferece diferentes formas de visualização, como listas e quadros, ele facilita o acompanhamento das atividades e torna a rotina mais organizada e produtiva.
+Sua interface simples e intuitiva possibilita que qualquer pessoa comece a utilizá-lo rapidamente, mesmo sem experiência prévia. Além disso, a plataforma oferece diferentes formas de visualização, como listas e quadros, facilitando o acompanhamento das atividades e tornando a rotina mais organizada e produtiva.
 
 ## Como começar (Passo a Passo)
 
@@ -29,33 +28,41 @@ O template foi desenvolvido para auxiliar estudantes na organização de ativida
 ### Exemplo de Tarefas
 
 #### 🔴 Não iniciado
-- Estudar para a prova.
-- Fazer exercícios da disciplina.
-- Iniciar trabalho em grupo.
+
+* Estudar para a prova.
+* Fazer exercícios da disciplina.
+* Iniciar trabalho em grupo.
 
 #### 🟡 Em andamento
-- Pesquisa para apresentação.
-- Revisão de conteúdo.
-- Organização das anotações.
+
+* Pesquisa para apresentação.
+* Revisão de conteúdo.
+* Organização das anotações.
 
 #### 🟢 Concluído
-- Entrega de atividade.
-- Leitura do material da semana.
-- Participação em trabalho em grupo.
+
+* Entrega de atividade.
+* Leitura do material da semana.
+* Participação em trabalho em grupo.
 
 ## Imagem do Template
 
 A imagem abaixo apresenta um exemplo de utilização do template por um estudante de Sistemas de Informação.
+
 <img width="1920" height="1080" alt="hotion" src="https://github.com/user-attachments/assets/a262bbb8-28f0-4fd6-b522-dd33d0b84e84" />
+
+> Substitua "painel-estudos.png" pelo nome da imagem enviada ao repositório.
 
 ## Tutorial em Vídeo
 
 Assista ao nosso vídeo no YouTube para aprender a configurar e utilizar o template na prática:
 
-(https://youtu.be/8mp1C3wmuis)
+https://youtu.be/8mp1C3wmuis
 
 ## Conclusão
 
 O Notion é uma ferramenta que ajuda estudantes e profissionais a organizar tarefas, projetos e compromissos de forma prática e eficiente. Seu uso contribui para uma rotina mais produtiva, facilitando o acompanhamento de atividades e o planejamento dos estudos.
 
 ---
+
+**Trabalho desenvolvido para o Projeto Conecta BSI – Grupo 05 – CEFET-MG.**
