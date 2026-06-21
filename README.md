@@ -48,10 +48,7 @@ O template foi desenvolvido para auxiliar estudantes na organização de ativida
 ## Imagem do Template
 
 A imagem abaixo apresenta um exemplo de utilização do template por um estudante de Sistemas de Informação.
-
 <img width="1920" height="1080" alt="hotion" src="https://github.com/user-attachments/assets/a262bbb8-28f0-4fd6-b522-dd33d0b84e84" />
-
-> Substitua "painel-estudos.png" pelo nome da imagem enviada ao repositório.
 
 ## Tutorial em Vídeo
 
