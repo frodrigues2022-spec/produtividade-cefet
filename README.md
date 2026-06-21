@@ -52,7 +52,7 @@ A imagem abaixo apresenta um exemplo de utilização do template por um estudant
 
 Assista ao nosso vídeo no YouTube para aprender a configurar e utilizar o template na prática:
 
-[LINK DO VÍDEO AQUI]
+(https://youtu.be/8mp1C3wmuis)
 
 ## Conclusão
 
